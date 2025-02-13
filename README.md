@@ -13,13 +13,13 @@ We’re building an **open, scalable, and cost-effective AI** that competes dire
 ---
 
 ## 💡 Why Open Intern?
-### 🌎 Democratizing AI
+### Democratizing AI
 We believe that AI should not be a privilege reserved for those with deep pockets. Open Intern is designed to provide **high-quality AI assistance at a price point that makes sense for startups, small businesses, and independent developers**.
 
-### ⚡ Faster & Lighter
+### Faster & Lighter
 Most LLMs today are **overloaded and costly**, making them difficult to scale affordably. Open Intern is optimized to run on **leaner infrastructure**, making it cheaper and more accessible without compromising performance.
 
-### 🔥 Competing with DeepSeek & OpenAI
+### Competing with DeepSeek & OpenAI
 DeepSeek and OpenAI dominate the AI landscape, but they come at a steep price. Open Intern aims to provide a **more budget-friendly alternative** while maintaining **state-of-the-art capabilities** in:
 - Natural language understanding
 - Code generation
@@ -27,7 +27,7 @@ DeepSeek and OpenAI dominate the AI landscape, but they come at a steep price. O
 - Business automation
 - And more!
 
-### 💰 The Investment Opportunity
+### The Investment Opportunity
 The AI market is booming, with LLMs becoming an integral part of business automation, content generation, and digital transformation. **Open Intern is positioned to disrupt this space with its cost-effective and high-performance alternative.**
 
 We are currently seeking **investors who share our vision** and want to be part of the next big AI revolution.
@@ -60,8 +60,8 @@ Open Intern leverages **efficient training methods, decentralized cloud computin
 ## 📢 Join the Revolution
 We’re inviting **investors, developers, and early adopters** to be part of Open Intern’s journey. If you’re looking to invest in the **next big AI breakthrough**, now is the time.
 
-📩 **Contact Us:** [your-email@openintern.cc](mailto:your-email@openintern.cc)  
-🌐 **Website:** [www.openintern.ai](https://www.openintern.ai)  
-🐦 **Twitter/X:** [@OpenInternAI](https://twitter.com/OpenInternAI)  
+**Contact Us:** [your-email@openintern.cc](mailto:your-email@openintern.cc)  
+**Website:** [www.openintern.ai](https://www.openintern.ai)  
+**Twitter/X:** [@OpenInternAI](https://twitter.com/OpenInternAI)  
 
-Let’s build the future of affordable AI together! 🚀
+Let’s build the future of AI together!
