@@ -1,3 +1,4 @@
+<div style="font-size: 12px;">
 # Open Intern - Open Source License
 
 ## Version 1.0  
@@ -81,3 +82,4 @@ This license shall be governed and interpreted in accordance with the laws of **
 For further inquiries, clarifications, or contribution guidelines, please contact us at:  
 **[mail@openintern.cc](mailto:mail@openintern.cc)**  
 **[www.openintern.cc](https://www.openintern.cc)**  
+</div>
