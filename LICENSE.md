@@ -1,6 +1,5 @@
-<div style="font-size: 12px;">
 # Open Intern - Open Source License
-
+<div style="font-size: 12px;">
 ## Version 1.0  
 
 ## **1. Introduction**  
