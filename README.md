@@ -1,6 +1,8 @@
 # Open Intern - Unlock Opportunities, Build the Future.
 
-![Open Intern](https://github.com/user-attachments/assets/bf310847-2351-4d08-8d74-ebdf89c1fd52)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf310847-2351-4d08-8d74-ebdf89c1fd52" width="300">
+</p>
 **Smaller, Faster, Cheaper – The AI Revolution Starts Here**
 
 ## 🚀 Introduction
