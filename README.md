@@ -60,8 +60,8 @@ Open Intern leverages **efficient training methods, decentralized cloud computin
 ## 📢 Join the Revolution
 We’re inviting **investors, developers, and early adopters** to be part of Open Intern’s journey. If you’re looking to invest in the **next big AI breakthrough**, now is the time.
 
-**Contact Us:** [your-email@openintern.cc](mailto:your-email@openintern.cc)  
-**Website:** [www.openintern.ai](https://www.openintern.ai)  
+**Contact Us:** [your-email@openintern.cc](mailto:mail@openintern.cc)  
+**Website:** [www.openintern.ai](https://openintern.cc)  
 **Twitter/X:** [@OpenInternAI](https://twitter.com/OpenInternAI)  
 
 Let’s build the future of AI together!
