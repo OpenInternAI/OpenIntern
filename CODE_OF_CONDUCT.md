@@ -27,7 +27,7 @@ The following behaviors will not be tolerated:
 - Violating privacy or sharing sensitive information without consent.  
 
 ## Reporting Violations
-If you witness or experience a violation of this Code of Conduct, please report it to the Open Intern moderation team at **[mail@openintern.ai](mailto:mail@openintern.ai)**. All reports will be handled confidentially and reviewed promptly.
+If you witness or experience a violation of this Code of Conduct, please report it to the Open Intern moderation team at **[mail@openintern.cc](mailto:mail@openintern.cc)**. All reports will be handled confidentially and reviewed promptly.
 
 ## Consequences
 Violations of this Code of Conduct may result in actions including, but not limited to:  
@@ -40,4 +40,4 @@ The enforcement of this Code of Conduct is at the discretion of the Open Intern 
 ## Acknowledgment
 By participating in Open Intern, you acknowledge and agree to uphold this Code of Conduct. We appreciate your cooperation in building a positive and productive community.
 
-For questions or concerns, please contact us at **[mail@openintern.ai](mailto:mail@openintern.ai)**.
+For questions or concerns, please contact us at **[mail@openintern.cc](mailto:mail@openintern.cc)**.
