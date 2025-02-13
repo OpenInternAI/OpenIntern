@@ -1,4 +1,4 @@
-# Open Intern: Code of Conduct
+# Open Intern - Code of Conduct
 
 ## Introduction
 At Open Intern, we are committed to fostering a welcoming, respectful, and inclusive environment for all contributors, users, and stakeholders. This Code of Conduct outlines our expectations for behavior and the consequences of unacceptable conduct.
