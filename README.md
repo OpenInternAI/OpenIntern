@@ -124,7 +124,7 @@ We are pioneering a new era of AI – one that is affordable, scalable, and powe
 
 We are actively seeking strategic investors to help accelerate Open Intern’s expansion. This is a unique opportunity to be part of a project that is set to disrupt the AI industry and capture a significant share of the LLM market.
 
-- Funding Goal: $X million (customizable)
+- Funding Goals brought by pump.fun fair launch.
 - Projected Market Share: Targeting a multi-billion-dollar AI sector
 - Competitive Advantage: Offering high-performance AI at a lower cost than any major competitor
 
