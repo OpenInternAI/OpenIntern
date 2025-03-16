@@ -1,4 +1,5 @@
-# Open Intern - Unlock Opportunities, Build the Future of AI
+# Open Intern 
+## Unlock Opportunities, Build the Future of AI
 
 <p align="center">
   <a href="https://openintern.cc">
