@@ -6,9 +6,8 @@
   </a>
 </p>
 
-## Smaller, Faster, Cheaper – The AI Revolution Starts Here
+## Lighter, Faster, Cheaper – The AI Revolution Starts Here
 
----
 
 ## Introduction: Disrupting the AI Landscape
 
