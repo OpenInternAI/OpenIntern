@@ -1,7 +1,9 @@
 # Open Intern - Unlock Opportunities, Build the Future.
 
 <p align="center">
+  <a href="https://openintern.cc">
   <img src="https://github.com/user-attachments/assets/bf310847-2351-4d08-8d74-ebdf89c1fd52" width="300">
+  </a>
 </p>
 **Smaller, Faster, Cheaper – The AI Revolution Starts Here**
 
@@ -15,7 +17,9 @@ We’re building an **open, scalable, and cost-effective AI** that competes dire
 ## 💡 Why Open Intern?
 
 <p align="center">
+  <a href="https://openintern.cc">
   <img src="https://github.com/user-attachments/assets/4e640ed7-b497-43f0-975b-2c2e011dd14c" width="900">
+  </a>
 </p>
 
 ### Democratizing AI
@@ -42,7 +46,9 @@ We are currently seeking **investors who share our vision** and want to be part 
 ## 📈 Market Potential
 
 <p align="center">
+  <a href="https://openintern.cc">
   <img src="https://github.com/user-attachments/assets/9a35a681-7032-4d6b-8adb-992d6b1ecbf8" width="900">
+  </a>
 </p>
 
 - **The global AI market** is projected to reach **$1.8 trillion by 2030**.
@@ -70,7 +76,9 @@ Open Intern leverages **efficient training methods, decentralized cloud computin
 ## 📢 Join the Revolution
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36ab2410-e49f-4a36-be6c-1d76e72674e5" width="300">
+  <a href="https://openintern.cc">
+  <img src="https://github.com/user-attachments/assets/36ab2410-e49f-4a36-be6c-1d76e72674e5" width="200">
+  </a>
 </p>
 
 We’re inviting **investors, developers, and early adopters** to be part of Open Intern’s journey. If you’re looking to invest in the **next big AI breakthrough**, now is the time.
