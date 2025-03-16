@@ -13,6 +13,11 @@ We’re building an **open, scalable, and cost-effective AI** that competes dire
 ---
 
 ## 💡 Why Open Intern?
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e640ed7-b497-43f0-975b-2c2e011dd14c" width="900">
+</p>
+
 ### Democratizing AI
 We believe that AI should not be a privilege reserved for those with deep pockets. Open Intern is designed to provide **high-quality AI assistance at a price point that makes sense for startups, small businesses, and independent developers**.
 
