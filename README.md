@@ -40,6 +40,11 @@ We are currently seeking **investors who share our vision** and want to be part 
 ---
 
 ## 📈 Market Potential
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a35a681-7032-4d6b-8adb-992d6b1ecbf8" width="900">
+</p>
+
 - **The global AI market** is projected to reach **$1.8 trillion by 2030**.
 - Companies spend **billions annually** on AI-powered solutions, yet cost remains a major barrier.
 - **85% of small businesses** say AI adoption is critical but unaffordable – Open Intern solves this problem.
@@ -63,6 +68,11 @@ Open Intern leverages **efficient training methods, decentralized cloud computin
 ---
 
 ## 📢 Join the Revolution
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36ab2410-e49f-4a36-be6c-1d76e72674e5" width="300">
+</p>
+
 We’re inviting **investors, developers, and early adopters** to be part of Open Intern’s journey. If you’re looking to invest in the **next big AI breakthrough**, now is the time.
 
 **Contact Us:** [mail@openintern.cc](mailto:mail@openintern.cc)  
