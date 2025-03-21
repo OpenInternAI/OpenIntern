@@ -138,7 +138,7 @@ Now is the time to invest in the next major AI disruptor.
 
 <p align="center">
   <a href="https://openintern.cc">
-  <img src="https://github.com/user-attachments/assets/36ab2410-e49f-4a36-be6c-1d76e72674e5" width="200">
+  <img src="https://github.com/user-attachments/assets/b3bfa4c2-fbc4-406a-826d-7fe913f5cf9c" width="200">
   </a>
 </p>
 
